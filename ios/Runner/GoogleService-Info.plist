@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>57254634596-8qcdh6j753od0enuk4hr5t7m4cards3m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.57254634596-8qcdh6j753od0enuk4hr5t7m4cards3m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>57254634596-th096lhmsum2rv1aol66igpbdf7renoq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDaYQ8xS3iSbxRUkTfcD1tKJ4Ab-FKZOzQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>57254634596</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.nunezplanets</string>
+	<key>PROJECT_ID</key>
+	<string>nunezplanets</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nunezplanets.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:57254634596:ios:1bc84191fd2f9527e72b71</string>
+</dict>
+</plist>
